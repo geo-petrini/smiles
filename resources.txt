@@ -1,0 +1,3 @@
+https://rdkit.org/docs/Cookbook.html
+https://greglandrum.github.io/rdkit-blog/posts/2023-05-26-drawing-options-explained.html
+https://greglandrum.github.io/rdkit-blog/posts/2024-07-28-confgen-and-intramolecular-hbonds.html
